@@ -1,14 +1,10 @@
 # ray-tracing
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A clojure library to follow through Peter Shirley's [Ray Tracing in One Weekend Series](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 ## License
 
-Copyright © 2021 FIXME
+Copyright © 2021 yudistrange
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
